@@ -19,7 +19,9 @@ Escaner puertos y la red en los equipos
 
 Hacer multiples tareas
 
--Webscraping:
+-Webscraping:https://github.com/nicolas-gar/PIA-Repositorio-en-GitHub/tree/main/Webscraping
+
+Extrae informacion de sitios web del URL y HTML 
 
 -Escaner de Puertos:
 
