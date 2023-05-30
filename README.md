@@ -13,6 +13,11 @@ Este repositorio tiene como objetivo reunir los scripts realizados durante el se
 ##Actividades
 -Scripting en Powershell:
 
--
+-Scripting en Bash:
 
--
+-Webscraping:
+
+-Escaner de Puertos:
+
+-Envio de Correos:
+
