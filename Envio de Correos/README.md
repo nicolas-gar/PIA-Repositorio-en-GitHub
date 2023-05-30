@@ -1,7 +1,7 @@
 # Envió de Correos
 '''
 ## Objetivo
-- El objetivo de esta sección es la conexión y posterior envío de correos electrónicos con el protocolo SMTP.
+- El objetivo en este tema es el envío de correos electrónicos usando el protocolo SMTP.
 '''
 ### ScriptCorreo.py
-- Mediante Smtlib se realizará el envio de correos, el cual tendra como cuerpo un html con información proporcionada por el usuario y el envio de una imagen dentro de este. 
+- Este script se realizara mediante el Smtlib el cual enviara los correos, estos correos tendran cuerpo con un html con la información que proporcionara el usuario y tmb se enviara una imagen.
