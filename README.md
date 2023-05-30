@@ -12,6 +12,7 @@ Este repositorio tiene como objetivo reunir los scripts realizados durante el se
 ---
 ## Actividades
 -Scripting en Powershell:
+Extrae informacion de sitios web
 
 -Scripting en Bash:
 
