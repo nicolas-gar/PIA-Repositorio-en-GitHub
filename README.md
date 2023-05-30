@@ -13,9 +13,10 @@ Este repositorio tiene como objetivo reunir los scripts realizados durante el se
 ## Actividades
 -Scripting en Powershell:https://github.com/nicolas-gar/PIA-Repositorio-en-GitHub/tree/main/Scraping%20en%20Powershell
 
-Extrae informacion de sitios web
 
--Scripting en Bash:
+
+-Scripting en Bash:https://github.com/nicolas-gar/PIA-Repositorio-en-GitHub/tree/main/Scripting%20en%20Bash
+
 
 -Webscraping:
 
